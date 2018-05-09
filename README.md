@@ -27,6 +27,9 @@ VITE Bachelor Programs
       |
 In 05/04/2018, AUF launch a regional appeal for interested institution to apply for the awareness workshop : Atelier de sensibilisation à la création de formations hybrides, VITE should response to this appeal before 10/05/2018
 
+Meeting had been the following dates:
+09/05/2018-Jack Matariki, Kevin Hinge, Kalsin Lawi, Georges Tauanearu
+
 
 Ce contient les dossiers, les fichiers, les images, les vidéos, les tableurs, les données dont les formateurs de l'IFEV et ses partenaires auront besoin pour permettre la disponibilité des formations diplômantes pour ses étudiants et les enseignants sur le terrain.
 Depuis 2017, la conception des programmes de la licence d'enseignement est en cours. Parallèlement à ce progrès, le projet de VITEOnline est conçu pour rendre ses services dans les deux modalités présentielles et en formation à distance selon le diagramme ci-dessous:
@@ -55,5 +58,8 @@ Les programmes de licence d'enseignement offert par l'IFEV
 
 En 05/04/2018, l'AUF lance Appel régional à manifestation d’intérêt : Atelier de sensibilisation à la création de formations hybrides, l'IFEV se doit répondre à cet appel dont la date limite est prévue pour le 10/05/2018
 
+
+Les réunions ont eu lieu dans les moments suivantes:
+1. 09/05/2018 - Jack Matariki, Kevin Hinge, Kalsin Lawi, Georges Tauanearu
 
 
